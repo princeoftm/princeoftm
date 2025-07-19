@@ -33,4 +33,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=princeoftm&show_icons=true&locale=en" alt="princeoftm" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=princeoftm&" alt="princeoftm" /></p>
+![](https://komarev.com/ghpvc/?username=princeoftm)
