@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with [Sepolia-Capture the ether](https://github.com/princeoftm/Capture-The-Ether-Sepolia)
 
-- 📝 I regularly write articles on [medium.com/princeoftm](medium.com/princeoftm)
+- 📝 I regularly write articles on [[medium.com/princeoftm]([medium.com/princeoftm](https://medium.com/@princeoftm))](https://medium.com/@princeoftm)
 
 - 📫 How to reach me **Raoaniruddh92@gmail.com**
 
